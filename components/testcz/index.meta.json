@@ -1,0 +1,13 @@
+{
+  "apiName": "testcz",
+  "label": {
+    "zh_CN": "testcz",
+    "en_US": "testcz"
+  },
+  "icon": "",
+  "description": {
+    "zh_CN": "testcz 组件描述",
+    "en_US": "testcz component description"
+  },
+  "protocolVersion": "2.0"
+}

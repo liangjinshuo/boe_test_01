@@ -1,0 +1,13 @@
+{
+  "apiName": "demo4",
+  "label": {
+    "zh_CN": "demo 4",
+    "en_US": "demo 4"
+  },
+  "icon": "",
+  "description": {
+    "zh_CN": "demo 4 组件描述",
+    "en_US": "demo 4 component description"
+  },
+  "protocolVersion": "2.0"
+}

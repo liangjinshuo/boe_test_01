@@ -1,0 +1,16 @@
+{
+  "apiID": "package_2be93a__c__function_aadhuxkdmm4gs",
+  "apiName": "node_application_global_var",
+  "label": {
+    "zh_CN": "DTS-node_application_global_var",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}

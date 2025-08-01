@@ -1,0 +1,17 @@
+{
+  "apiID": "package_2be93a__c__function_aadhvg5dprqhg",
+  "apiName": "PublicAPI",
+  "label": {
+    "zh_CN": "PublicAPI",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "isPublicAPI": true,
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}

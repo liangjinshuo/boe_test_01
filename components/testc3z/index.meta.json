@@ -1,0 +1,15 @@
+{
+  "apiName": "testc3z",
+  "label": {
+    "zh_CN": "testc 3 z",
+    "en_US": "testc 3 z"
+  },
+  "icon": "./icon.svg",
+  "cover": "./cover.svg",
+  "description": {
+    "zh_CN": "testc 3 z 组件描述",
+    "en_US": "testc 3 z component description"
+  },
+  "device": ["pc","mobile"],
+  "protocolVersion": "3.0"
+}
